@@ -35,5 +35,5 @@ Yapay zeka yardımıyla Git komutları ve GitHub ile ilgili yaşadığım sorunl
 "# Proje Başlığı
 >>>>>>> 004d69e4c097e0c107c39d537adb8dad311bb65b
 
->![Fotoğraf Açıklaması](img/example.jpg)
+>![Fotoğraf Açıklaması](img\lena.png) 
 
