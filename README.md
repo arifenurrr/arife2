@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 "# Proje Başlığı" 
 # Proje Başlığı
 Bu proje, Git ve GitHub kullanımı ile ilgili temel bilgilere sahip olmanıza yardımcı olacak bir uygulama içermektedir.
@@ -30,4 +31,7 @@ Değişiklikler tamamlandığında commit yapmaya karar verdim.
 
 Yapay zeka yardımıyla Git komutları ve GitHub ile ilgili yaşadığım sorunları çözdüm.
 
+=======
+"# Proje Başlığı
+>>>>>>> 004d69e4c097e0c107c39d537adb8dad311bb65b
 
